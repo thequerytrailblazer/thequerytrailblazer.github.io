@@ -197,8 +197,8 @@ exclude:
   - _posts/
   - _talks/
   - _teaching/
-  - _pages/talks.md
-  - _pages/teaching.md
+  - _pages/talks.html
+  - _pages/teaching.html
   - _pages/talkmap.html
 keep_files:
   - .git

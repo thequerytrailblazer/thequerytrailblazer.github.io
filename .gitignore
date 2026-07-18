@@ -38,3 +38,16 @@ docker-compose.yaml
 
 # Preview script
 preview.sh
+
+# markdown_generator: unused talk-generation tooling (talks feature removed)
+markdown_generator/talks.ipynb
+markdown_generator/talks.py
+markdown_generator/talks.tsv
+
+# Unused template features: talks, teaching, blog posts (removed from nav + excluded from build)
+_posts/
+_talks/
+_teaching/
+_pages/talks.html
+_pages/teaching.html
+_pages/talkmap.html
