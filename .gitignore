@@ -19,3 +19,22 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Ignore .github/
+.github/
+
+# Ignore .devcontainer
+.devcontainer/
+
+# Ignore talkmap
+talkmap.ipynb
+talkmap.py
+talkmap_out.ipynb
+talkmap/
+_pages/talkmap.html
+
+# docker-compose
+docker-compose.yaml
+
+# Preview script
+preview.sh

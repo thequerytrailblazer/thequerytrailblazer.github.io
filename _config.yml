@@ -199,6 +199,7 @@ exclude:
   - _teaching/
   - _pages/talks.md
   - _pages/teaching.md
+  - _pages/talkmap.html
 keep_files:
   - .git
   - .svn
