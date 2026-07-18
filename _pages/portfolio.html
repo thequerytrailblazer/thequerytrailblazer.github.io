@@ -7,8 +7,50 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- List of sources -->
+<div class="sources-section">
+  <p><strong>Sources:</strong></p>
+  <ul>
+    <li>Wikimedia Outreach Dashboard
+      <ul>
+        <li><a
+            href="https://outreachdashboard.wmflabs.org/campaigns/data_dan_teknologi_wikimedia_indonesia_2025/overview"
+            target="_blank">Summary for 2025 fiscal year</a></li>
+        <li><a href="https://outreachdashboard.wmflabs.org/campaigns/wikidata_indonesia_gsf24/overview"
+            target="_blank">Summary for 2024 fiscal year</a></li>
+        <li><a
+            href="https://docs.google.com/spreadsheets/d/12KByfts5-rK42lptU8XiiRgfN4NoNJbUrFlXgLu_rYQ/edit?usp=sharing"
+            target="_blank">Summary for 2023 fiscal year</a></li>
+      </ul>
+    </li>
+    <li>Wikimedia Indonesia documentation (<em>in Indonesian</em>)
+      <ul>
+        <li><a href="https://id.wikimedia.org/wiki/Data_dan_Teknologi_2025/Dokumentasi_aktivitas" target="_blank">2025
+            fiscal year</a></li>
+        <li><a href="https://id.wikimedia.org/wiki/Wikidata_2024/Dokumentasi_aktivitas" target="_blank">2024 fiscal
+            year</a></li>
+        <li><a href="https://id.wikimedia.org/wiki/Wikidata_2023/Dokumentasi_aktivitas" target="_blank">2023 fiscal
+            year</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- End of list-->
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<h2>Partnership Programs</h2>
+{% assign partnerships = site.portfolio | where: "category", "partnership" | sort: "date" | reverse %}
+{% for post in partnerships %}
+{% include archive-single.html %}
 {% endfor %}
 
+<h2>Research Grant Administration</h2>
+{% assign grants = site.portfolio | where: "category", "research-grant" | sort: "date" | reverse %}
+{% for post in grants %}
+{% include archive-single.html %}
+{% endfor %}
+
+<h2>International Engagements</h2>
+{% assign conferences = site.portfolio | where: "category", "conference" | sort: "date" | reverse %}
+{% for post in conferences %}
+{% include archive-single.html %}
+{% endfor %}

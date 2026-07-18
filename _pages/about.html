@@ -1,0 +1,232 @@
+---
+permalink: /
+title: "Hisyam Athaya / Knowledge Graph Researcher and Data Partnerships Associate"
+author_profile: true
+redirect_from:
+- /about/
+- /about.html
+---
+
+<style>
+    :root {
+        --primary: #fdfaf3;
+        /* warm off-white instead of pure white — cards feel part of the page, not pasted on */
+        --secondary: #f2ead9;
+        /* soft beige, slightly darker than bg, for hover/secondary surfaces */
+        --accent: #2563eb;
+        /* slightly deeper blue — better contrast on warm backgrounds than the lighter #3b82f6 */
+        --accent-light: #93c5fd;
+        /* lighter blue for subtle highlights/glows */
+        --text: #2d2418;
+        /* warm dark brown-black instead of cool gray — matches the beige undertone */
+        --text-light: #6b5d4f;
+        /* warm gray-brown for secondary text (dates, subtitles) */
+        --border: #e0d3b8;
+        /* warm tan border instead of cool gray — blends with beige bg */
+    }
+
+    .container-profile {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    .section-profile {
+        margin-bottom: 4rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 3rem;
+        font-weight: 600;
+        position: relative;
+        padding-bottom: 0.5rem;
+    }
+
+    .section-title::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 40px;
+        height: 3px;
+        background: var(--accent);
+        border-radius: 2px;
+    }
+
+    .timeline {
+        position: relative;
+        padding-left: 2rem;
+    }
+
+    .timeline::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 2px;
+        height: 100%;
+        background: linear-gradient(to bottom,
+                transparent,
+                var(--accent),
+                var(--accent),
+                transparent);
+        opacity: 0.3;
+    }
+
+    .timeline-item {
+        position: relative;
+        padding-bottom: 0.5rem;
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeIn 0.5s ease forwards;
+    }
+
+    @keyframes fadeIn {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .timeline-dot {
+        position: absolute;
+        left: -2.4rem;
+        top: 0.5rem;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background: var(--primary);
+        border: 2px solid var(--accent);
+        box-shadow: 0 0 0 4px var(--primary);
+        transition: all 0.3s ease;
+    }
+
+    .timeline-item:hover .timeline-dot {
+        background: var(--accent);
+        box-shadow: 0 0 0 6px var(--primary), 0 0 10px rgba(37, 99, 235, 0.4);
+        /* matches new --accent */
+    }
+
+    .timeline-content {
+        padding: 0.3rem;
+        padding-left: 1.5rem;
+        border-radius: 8px;
+        border: 1px solid var(--border);
+        position: relative;
+        transition: all 0.3s ease;
+        flex-wrap: wrap;
+        /* Allows wrapping for subtitle */
+        align-items: center;
+        display: flex;
+    }
+
+    .timeline-content:hover {
+        transform: translateX(5px);
+        box-shadow: 0 4px 12px rgba(45, 36, 24, 0.08);
+        /* warm-toned shadow instead of neutral black */
+    }
+
+    .timeline-date {
+        color: var(--accent);
+        font-weight: 500;
+        font-size: 0.7rem;
+        letter-spacing: 0.5px;
+        margin-left: auto;
+        /* Pushes the date to the right */
+        white-space: nowrap;
+        align-self: center;
+        margin-right: 1rem;
+    }
+
+    .timeline-title {
+        font-weight: 600;
+        flex: 1 1 auto;
+    }
+
+    .timeline-subtitle {
+        font-size: 0.7rem;
+        margin-bottom: 0.4rem;
+        width: 100%;
+    }
+
+    @media (max-width: 768px) {
+        .timeline-content {
+            padding: 0.7rem;
+        }
+    }
+</style>
+<p>
+    I am a Data and Technology Partnership Staff at Wikimedia Indonesia, where I focus on expanding the reach and
+    quality of open knowledge infrastructure across Indonesia. I hold an M.Sc. in Computer Science from Universitas
+    Indonesia, where my research centered on foreign language online learning utilizing the Community of Inquiry
+    Framework,
+    work I presented at academic conferences and published in peer-reviewed proceedings.
+</p>
+<p>
+    My engagement with semantic web and knowledge graphs grew through my involvement with the Indonesian Wikimedia
+    community, particularly
+    the Wikidata project. Through this work, I developed institutional partnerships with 20+ universities, government
+    agencies, and cultural
+    institutions across Indonesia, including formal collaborations with BRIN, Kemendikdasmen, and Satu Data Indonesia,
+    and represented Wikimedia
+    Indonesia at international forums including GLAM Wiki 2025 in Lisbon and ESEAP Conference 2026 in Kaohsiung.
+</p>
+
+<p>
+    I am drawn to the intersection of open data, knowledge infrastructure, and community capacity building, and how
+    these can expand access
+    to knowledge for underrepresented communities and languages.
+</p>
+
+<p>
+    You could contact me via email at hisyam.athaya(at)ui.ac.id
+</p>
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap-grid.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap-utilities.min.css" rel="stylesheet">
+
+<div class="container-profile row">
+    <div class="section-profile col-md-6">
+        <h3>Experience</h3>
+        <div class="timeline">
+            {% for job in site.data.experience.job %}
+            <div class="timeline-item" style="animation-delay: {{ forloop.index | times: 0.1 | append: 's' }}">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-title">{{ job.title }}</div>
+                    <div class="timeline-date">{{ job.start_date }} - {{ job.end_date }}</div>
+                    <div class="timeline-subtitle">
+                        <i class="fas fa-map-marker-alt" style="color: #0073e6; margin-right: 5px;"></i>
+                        {{ job.company }}
+                    </div>
+                    {% if job.note %}
+                    <div class="timeline-subtitle">
+                        {{ job.note }}
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="section-profile col-md-6">
+        <h3>Education</h3>
+        <div class="timeline">
+            {% for job in site.data.experience.education %}
+            <div class="timeline-item" style="animation-delay: {{ forloop.index | times: 0.1 | append: 's' }}">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <div class="timeline-title">{{ job.title }}</div>
+                    <div class="timeline-date">{{ job.start_date }} - {{ job.end_date }}</div>
+                    <div class="timeline-subtitle">
+                        <i class="fas fa-map-marker-alt" style="color: #0073e6; margin-right: 5px;"></i>
+                        {{ job.company }}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

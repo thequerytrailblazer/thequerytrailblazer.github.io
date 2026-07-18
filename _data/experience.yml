@@ -1,0 +1,26 @@
+job:
+  - title: Data and Technology Partnership Staff
+    start_date: Jun 2025
+    end_date: Jul 2026
+    company: Wikimedia Indonesia
+  - title: Wikidata Staff
+    start_date: Sep 2023
+    end_date: Jun 2025
+    company: Wikimedia Indonesia
+  - title: Teaching Assistant
+    start_date: Aug 2023
+    end_date: Jul 2024
+    company: Faculty of Computer Science, Universitas Indonesia
+  - title: Head of Staff
+    start_date: 2019
+    end_date: 2020
+    company: Main Campus Library, Universitas Darussalam (UNIDA) Gontor
+education:
+  - title: Master in Computer Science
+    start_date: Aug 2020
+    end_date: Jan 2023
+    company: Universitas Indonesia
+  - title: Bachelor of Informatics
+    start_date: Aug 2014
+    end_date: Feb 2019
+    company: Universitas Darussalam (UNIDA) Gontor
