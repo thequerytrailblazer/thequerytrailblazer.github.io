@@ -1,8 +1,8 @@
-# wdquerytrailblazer.github.io
+# thequerytrailblazer.github.io
 
 Source code for my personal academic website, built with [Jekyll](https://jekyllrb.com/) on the [academicpages](https://github.com/academicpages/academicpages.github.io) theme (a fork of [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)).
 
-**Live site:** https://wdquerytrailblazer.github.io/
+**Live site:** https://thequerytrailblazer.github.io/
 
 ## What's here
 
