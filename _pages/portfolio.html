@@ -7,9 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+<p>This portfolio documents my work at <strong>Wikimedia Indonesia</strong> from <strong>1 September 2023 to 30 June
+    2026</strong>, across two roles: <strong>Wikidata Staff</strong> and <strong>Data and Technology Partnership
+    Staff</strong>. It covers partnership programs with academic and civil society institutions, administration of the
+  Wikidata Research Fund, and international conference engagements.</p>
+
+<h2>Metrics and documentations</h2>
 <!-- List of sources -->
 <div class="sources-section">
-  <p><strong>Sources:</strong></p>
+  <p>This is a list of institutional documentations hosted by Wikimedia Indonesia which documented my activities and
+    achievements during my time at Wikimedia Indonesia.
+  </p>
+  <p><a href="https://outreachdashboard.wmflabs.org/" target="_blank">Outreach dashboard</a> is a metrics tool used
+    widely by Wikimedia Communities to track volunteers contributions in
+    Wikimedia projects. It was structured per activities (called <em>campaigns</em>), and tracked participants,
+    facilitators, and total contributions in bytes or pages created during the activities.
+  </p>
+  <p><a href="https://id.wikimedia.org" target="_blank">Wikimedia Indonesia</a> provided reports for every of fiscal
+    year. It consisted of financial statements and also activity documentation. The report is accessible by public.</p>
   <ul>
     <li>Wikimedia Outreach Dashboard
       <ul>
@@ -37,7 +52,7 @@ author_profile: true
 </div>
 <!-- End of list-->
 
-<h2>Partnership Programs</h2>
+<h2>Partnership Programs Highlights</h2>
 {% assign partnerships = site.portfolio | where: "category", "partnership" | sort: "date" | reverse %}
 {% for post in partnerships %}
 {% include archive-single.html %}
