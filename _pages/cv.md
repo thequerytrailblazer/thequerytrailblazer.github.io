@@ -47,7 +47,7 @@ Work experience
 
 * 2023 - 2024: Teaching Assistant, Faculty of Computer Science, University of Indonesia
   * Duties included: organizing homeworks and classes, tutoring international students, participating in research process, liasion between laboratory and students.
-  * Supervisor: Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){:target="_blank"}
+  * Supervisor: [Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){:target="_blank"}
 
 * 2019 - 2020: Senior Staff, Main Campus Library, University of Darussalam Gontor
   * Duties included:
