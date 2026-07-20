@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* July 2025 - June 2026: [Data and Technology Partnership Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)), [Wikimedia Indonesia](https://id.wikimedia.org)
+* July 2025 - June 2026: [Data and Technology Partnership Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)){:target="_blank"}, [Wikimedia Indonesia](https://id.wikimedia.org){:target="_blank"}
   * Duties:
     * Maintained data quality and integration across Wikidata, a large-scale structured knowledge base, including data curation, validation, and query-based analysis (SPARQL) to support research and reporting needs.
     * Administered a research grant portfolio valued at IDR 50,000,000, tracking milestones, budgets, and deliverables through structured reporting systems, supporting research that led to international conference presentations and accredited academic publications.
@@ -34,7 +34,7 @@ Work experience
     * Represented the organization at national and international forums on data and open knowledge systems.
   * Supervisor: Dimas A. P. Hardijanto
 
-* September 2023 - June 2025: [Wikidata Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)), [Wikimedia Indonesia](https://id.wikimedia.org)
+* September 2023 - June 2025: [Wikidata Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)){:target="_blank"}, [Wikimedia Indonesia](https://id.wikimedia.org){:target="_blank"}
   * Duties:
     * Performed ongoing data quality management and integration work on Wikidata, including structured data entry, validation, and analysis via query tools.
     * Co-managed IDR 553,050,000 in program budgets across two grant cycles, with financial tracking, milestone monitoring, and structured reporting.
