@@ -71,6 +71,25 @@
   font-size: $type-size-7;
 }
 
+.page__footer-contact {
+  padding: 0.5em 0;
+  font-size: 0.9em;
+
+  strong {
+    margin-right: 0.75em;
+  }
+
+  a {
+    color: #ffffff;
+    margin-right: 0.6em;
+    font-size: 1.2em;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
 .page__footer-follow {
   ul {
     margin: 0;
