@@ -14,13 +14,13 @@ Education
 * M.Sc. in Computer Science, [University of Indonesia](https://cs.ui.ac.id){:target="_blank"}, 2023
   * Research focus: Educational technology
   * Supervisors:
-    * [Prof. Dr. Kasiyah, M.Sc.](https://cs.ui.ac.id/personnel/kasiyah/){:target="_blank"}
-    * [Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){:target="_blank"}
+    * [Prof. Dr. Dra. Kasiyah, M.Sc.](https://cs.ui.ac.id/personnel/kasiyah/){: .external-link target="_blank"}
+    * [Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){: .external-link target="_blank"}
 * B.Sc. in Informatics Engineering, [University of Darussalam Gontor](https://unida.gontor.ac.id/sciencetech/informatics-engineering/){:target="_blank"}, 2019
   * Research focus: General web programming
   * Supervisors:
-    * [Shoffin Nahwa Utama, S.Kom., M.Kom.](https://scholar.google.com/citations?user=lHJ7R8cAAAAJ&hl=id){:target="_blank"}
-    * [Triana Harmini, M.Pd.](https://scholar.google.com/citations?user=Gx0l9MAAAAAJ&hl=en){:target="_blank"}
+    * [Shoffin Nahwa Utama, S.Kom., M.Kom.](https://scholar.google.com/citations?user=lHJ7R8cAAAAJ&hl=id){: .external-link target="_blank"}
+    * [Triana Harmini, M.Pd.](https://scholar.google.com/citations?user=Gx0l9MAAAAAJ&hl=en){: .external-link target="_blank"}
 
 Work experience
 ======
@@ -32,7 +32,7 @@ Work experience
     * Used metrics dashboards (Outreach Dashboard) to track, analyze, and report participation and program data across 20+ institutional partners in 10+ cities.
     * Built and maintained data-driven partnerships with public-sector and academic stakeholders, including BRIN, Kemendikdasmen, and Satu Data Indonesia, supporting open data and digital knowledge initiatives.
     * Represented the organization at national and international forums on data and open knowledge systems.
-  * Supervisor: [Dimas A. P. Hardijanto](https://meta.wikimedia.org/wiki/User:Dimas_H_(WMID)){:target="_blank"}
+  * Supervisor: [Dimas A. P. Hardijanto](https://meta.wikimedia.org/wiki/User:Dimas_H_(WMID)){: .external-link target="_blank"}
 
 * September 2023 - June 2025: [Wikidata Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)){:target="_blank"}, [Wikimedia Indonesia](https://id.wikimedia.org){:target="_blank"}
   * Duties:
@@ -43,11 +43,11 @@ Work experience
     * Conducted institutional data-partnership outreach with 15+ universities, cultural institutions, and government stakeholders across Indonesia and globally.
     * Built and coordinated a distributed network of trainers to support consistent data-quality practices across program sites.
     * Mentored interns from three universities in data management practices using Wikidata and open knowledge tools.
-  * Supervisor: [Hardiansyah](https://meta.wikimedia.org/wiki/User:Harditaher_(WMID)){:target="_blank"}
+  * Supervisor: [Hardiansyah](https://meta.wikimedia.org/wiki/User:Harditaher_(WMID)){: .external-link target="_blank"}
 
 * 2023 - 2024: Teaching Assistant, Faculty of Computer Science, University of Indonesia
   * Duties included: organizing homeworks and classes, tutoring international students, participating in research process, liasion between laboratory and students.
-  * Supervisor: [Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){:target="_blank"}
+  * Supervisor: [Prof. Harry Budi Santoso, S.Kom., M.Kom., Ph.D.](https://cs.ui.ac.id/personnel/harry-budi-santoso/){: .external-link target="_blank"}
 
 * 2019 - 2020: Senior Staff, Main Campus Library, University of Darussalam Gontor
   * Duties included:
@@ -56,7 +56,7 @@ Work experience
     * Designed and organized literacy programs, workshops, and activities to enhance students' reading, research, and writing skills.
     * Conducted training and capacity-building initiatives to strengthen librarianship and information management competencies among staff.
     * Coordinated cross-campus collaboration and resource planning to improve library services and operational efficiency.
-  * Supervisor: [H. Syamsul Hadi Untung, M.A., M.L.S.](https://scholar.google.com/citations?user=1LPdsckAAAAJ&hl=id){:target="_blank"}
+  * Supervisor: [H. Syamsul Hadi Untung, M.A., M.L.S.](https://scholar.google.com/citations?user=1LPdsckAAAAJ&hl=id){: .external-link target="_blank"}
     
   
 Skills
