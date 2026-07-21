@@ -28,9 +28,11 @@ author:
   pronouns         :  
   bio              : "A knowledge graph researcher with experience of project management, grant fund management, event organization and open knowledge advocacy"
   location         : "Jakarta, ID"
-  # employer         : "Red Brick University"
+  # employer       : "Red Brick University"
   uri              : # URL
-  # email            : "none@example.org" 
+  # email          : "none@example.org"
+  email_user       : "hisyam.athaya"
+  email_domain     : "ui.ac.id" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : athayahisyam
+  linkedin         : "athayahisyam"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
