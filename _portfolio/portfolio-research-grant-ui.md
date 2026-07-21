@@ -1,6 +1,6 @@
 ---
 title: "Wikidata Research Fund"
-excerpt: "As part of my role, I handled the administration of Wikimedia Indonesia's Wikidata Research Grant, an annual grant supporting Indonesian researcher teams working on topics related to Wikidata, Wikibase, and open data technology. Over two fiscal years, I managed two grant cycles totaling Rp50,000,000 in research funding.<br/><img src='https://upload.wikimedia.org/wikimedia/id/c/cc/180225_Rapat_Hibah_Riset_Wikidata_2024_UI_1.jpeg' width='500' height='300' alt='The research team and their work published in LLM-TEXT2KG 2025' style='display:block;margin:0 auto;'>"
+excerpt: "As part of my role, I handled the administration of Wikimedia Indonesia's Wikidata Research Grant, an annual grant supporting Indonesian researcher teams working on topics related to Wikidata, Wikibase, and open data technology. Over two fiscal years, I managed two grant cycles totaling Rp50,000,000 in research funding.<br/><img src='https://upload.wikimedia.org/wikimedia/id/c/cc/180225_Rapat_Hibah_Riset_Wikidata_2024_UI_1.jpeg' loading='lazy' width='500' height='300' alt='The research team and their work published in LLM-TEXT2KG 2025' style='display:block;margin:0 auto;'>"
 collection: portfolio
 category: research-grant
 date: 2025-01-01
@@ -24,6 +24,6 @@ In the 2025 fiscal year, I administered a grant for a team from Telkom Universit
 Over two grant cycles, the fund supported two Indonesian research teams whose work reached international academic visibility, including publication at IEEE ISRITI 2024 and ESWC LLM-TEXT2KG 2025, and funded research activities at Telkom University.
 
 <div style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikimedia/id/c/cc/180225_Rapat_Hibah_Riset_Wikidata_2024_UI_1.jpeg" width="500" height="300" alt="The research team from Universitas Indonesia">
+  <img src="https://upload.wikimedia.org/wikimedia/id/c/cc/180225_Rapat_Hibah_Riset_Wikidata_2024_UI_1.jpeg" loading="lazy" width="500" height="300" alt="The research team from Universitas Indonesia">
   <p><em>Figure 4. The research team </em></p>
 </div>
