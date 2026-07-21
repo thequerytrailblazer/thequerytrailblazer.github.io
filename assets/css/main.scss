@@ -37,3 +37,30 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+;
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+
+/*
+ * External link indicator
+ *
+ * Adds a small arrow (↗) after links marked with the .external-link class.
+ * This provides a visual cue that the link opens an external website,
+ * typically together with target="_blank" and rel="noopener noreferrer".
+ *
+ * Example:
+ * <a href="https://example.com"
+ *    target="_blank"
+ *    rel="noopener noreferrer"
+ *    class="external-link">
+ *    Example
+ * </a>
+ */
+
+.external-link::after {
+  content: " ↗";
+  font-size: 0.75em;
+  vertical-align: text-top;
+  opacity: 0.7;
+}
