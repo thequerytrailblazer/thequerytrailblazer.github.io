@@ -26,23 +26,18 @@ Work experience
 ======
 * July 2025 - June 2026: [Data and Technology Partnership Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)){:target="_blank"}, [Wikimedia Indonesia](https://id.wikimedia.org){:target="_blank"}
   * Duties:
-    * Maintained data quality and integration across Wikidata, a large-scale structured knowledge base, including data curation, validation, and query-based analysis (SPARQL) to support research and reporting needs.
-    * Administered a research grant portfolio valued at IDR 50,000,000, tracking milestones, budgets, and deliverables through structured reporting systems, supporting research that led to international conference presentations and accredited academic publications.
-    * Co-managed IDR 290,000,000 in program funding, including budget tracking, financial reporting, and data-driven monitoring of program outcomes across 40+ activities and 400+ participants.
-    * Used metrics dashboards (Outreach Dashboard) to track, analyze, and report participation and program data across 20+ institutional partners in 10+ cities.
-    * Built and maintained data-driven partnerships with public-sector and academic stakeholders, including BRIN, Kemendikdasmen, and Satu Data Indonesia, supporting open data and digital knowledge initiatives.
-    * Represented the organization at national and international forums on data and open knowledge systems.
+    * Developed and managed partnerships with 20+ universities, government agencies (including BRIN, Kemendikdasmen, and Satu Data Indonesia), professional networks, and community organizations across 10+ cities.
+    * Co-managed an IDR 290,000,000 annual program budget and administered an IDR 50,000,000 Wikidata Research Grant portfolio, fostering cross-institutional collaborations with university researchers to produce accredited academic publications and international conference presentations. 
+    * Prepared, synthesized, and analyzed Wikimedia Indonesia’s partnership data to derive internal insights and inform organizational strategy.
+    * Represented the Wikimedia Indonesia community at national and international forums to advance open data and digital knowledge initiatives.
   * Supervisor: [Dimas A. P. Hardijanto](https://meta.wikimedia.org/wiki/User:Dimas_H_(WMID)){: .external-link target="_blank"}
 
 * September 2023 - June 2025: [Wikidata Staff](https://meta.wikimedia.org/wiki/User:Hisyam_(WMID)){:target="_blank"}, [Wikimedia Indonesia](https://id.wikimedia.org){:target="_blank"}
   * Duties:
-    * Performed ongoing data quality management and integration work on Wikidata, including structured data entry, validation, and analysis via query tools.
-    * Co-managed IDR 553,050,000 in program budgets across two grant cycles, with financial tracking, milestone monitoring, and structured reporting.
-    * Administered a research grant portfolio valued at IDR 50,000,000, overseeing contract monitoring and reporting for research resulting in academic publications and conference presentations.
-    * Tracked and reported program metrics and participation data (1,500+ participants across 10+ cities) using dashboard and spreadsheet-based analytics.
-    * Conducted institutional data-partnership outreach with 15+ universities, cultural institutions, and government stakeholders across Indonesia and globally.
-    * Built and coordinated a distributed network of trainers to support consistent data-quality practices across program sites.
-    * Mentored interns from three universities in data management practices using Wikidata and open knowledge tools.
+    * Co-managed IDR 553,050,000 in GSF budgets across two grant cycles, leading 50+ workshops, edit-a-thons, and public lectures engaging 1,500+ participants across 10+ Indonesian cities.
+    * Executed technology-focused initiatives under a multi-year partnership with the Swedish Embassy for Wiki Women Month (2024–2025), onboarding 100+ women into the Wikimedia Women Community.
+    * Aggregated and analyzed multi-year activity metrics to evaluate program efficacy, track community growth trends, and report key performance indicators.
+    * Built and coordinated a distributed network of volunteer Wikidata trainers while mentoring university interns from Universitas Andalas, Universitas Airlangga, and ITB in open knowledge implementation.
   * Supervisor: [Hardiansyah](https://meta.wikimedia.org/wiki/User:Harditaher_(WMID)){: .external-link target="_blank"}
 
 * 2023 - 2024: Teaching Assistant, Faculty of Computer Science, University of Indonesia
@@ -61,9 +56,12 @@ Work experience
   
 Skills
 ======
-* __Open Knowledge Platform__: Wikipedia and Wikidata (content contribution, data quality maintenance, open data analytics and reuse, and community engagement)
-* __Digital and Office Tools__: Microsoft Suite (Word, PowerPoint, and Excel), Google (Docs, Spreadsheet and Presentation), Python Programming
 * __Language__: Bahasa Indonesia (Native), English (TOEFL), and Arabic (Passive)
+* __Data Analysis & Visualization__: Exploratory Data Analysis (EDA), Descriptive Statistics, Data Wrangling, Reporting
+* __Tools & Languages__: Python (Pandas, NumPy, Matplotlib), SQL, Tableau, Power BI
+* __Data Management & Governance__: Open Data Management, Data Cleaning/Validation, Wikidata Architecture
+* __Research & Methodology__: Scientific Research and Publication, Program Performance Metrics, Cross-Institutional Data Harmonization
+
 
 
 Publications
