@@ -19,11 +19,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-    children:
-      - title: "Partnership & Program Portfolio"
-        url: /portfolio/
-      - title: "Data Learning & Analysis Portfolio"
-        url: /data-portfolio/
+
+  - title: "Data Portfolio"
+    url: /data-portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
