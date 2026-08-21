@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Data Learning & Analysis Portfolio"
+permalink: /data-portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>This section showcases my personal and professional data analysis projects, including interactive dashboards, machine learning explorations, and visual analytics.</p>
+
+<div class="entries-grid">
+{% assign data_projects = site.portfolio | where: "category", "data-analysis" | sort: "date" | reverse %}
+{% for post in data_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+</div>

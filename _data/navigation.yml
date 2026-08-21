@@ -17,10 +17,10 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Program and Partnership Portfolio"
     url: /portfolio/
 
-  - title: "Data Portfolio"
+  - title: "Data Analysis and Learning Portfolio"
     url: /data-portfolio/
         
   #- title: "Blog Posts"
