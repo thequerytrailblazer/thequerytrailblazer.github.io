@@ -1,9 +1,9 @@
 ---
 title: "20 Years of Chess Royalty: ELO Trajectories (2000–2021)"
-excerpt: "Interactive time-series analysis exploring Grandmaster rating peaks and longevity using Python and Plotly."
+excerpt: "Interactive time-series analysis exploring Grandmaster rating peaks and longevity using Python and Plotly. <br/><img src='/assets/images/chess_elo_trajectories.png' loading='lazy' width='500' height='300' alt='Chess ELO Trajectories Chart' style='display:block;margin:0 auto;'>"
 category: "data-analysis"
 date: 2026-08-01
-permalink: false
+colletion: data-portfolio
 ---
 
 This project analyzes the rating trajectories of top-tier Grandmasters over a 20-year span.
@@ -25,4 +25,4 @@ This project analyzes the rating trajectories of top-tier Grandmasters over a 20
 ## Tech Stack & Workflow
 * **Data Processing:** Python (Pandas)
 * **Visualization:** Plotly Express
-* **Source Code:** [GitHub Repository](https://github.com/yourusername/chess-elo-analysis)
+* **Source Code:** [GitHub Repository](https://github.com/thequerytrailblazer/Chess-Data-Analysis)
