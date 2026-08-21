@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Data Learning & Analysis Portfolio"
+title: "Data Portfolios"
 permalink: /data-portfolio/
 author_profile: true
+date: 2026-08-01
 ---
 
 {% include base_path %}
@@ -10,8 +11,7 @@ author_profile: true
 <p>This section showcases my personal and professional data analysis projects, including interactive dashboards, machine learning explorations, and visual analytics.</p>
 
 <div class="entries-grid">
-{% assign data_projects = site.portfolio | where: "category", "data-analysis" | sort: "date" | reverse %}
-{% for post in data_projects %}
+{% for post in site.data-portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 </div>
