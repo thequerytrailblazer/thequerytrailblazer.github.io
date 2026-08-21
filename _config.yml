@@ -240,6 +240,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  data-portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -287,6 +290,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _data-portfolio
+  - scope:
+      path: ""
+      type: data-portfolio
     values:
       layout: single
       author_profile: true
