@@ -25,4 +25,4 @@ This project analyzes the rating trajectories of top-tier Grandmasters over a 20
 ## Tech Stack & Workflow
 * **Data Processing:** Python (Pandas)
 * **Visualization:** Plotly Express
-* **Source Code:** [GitHub Repository](https://github.com/thequerytrailblazer/Chess-Data-Analysis)
+* **Source Code:** [GitHub Repository](https://github.com/thequerytrailblazer/Chess-Data-Analysis){:target="_blank"}

@@ -2,7 +2,7 @@
 title: "Factors Influencing E-learning System Success during COVID-19 Pandemic (Case Study: Faculty of Computer Science, Universitas Indonesia)"
 collection: publications
 category: conferences
-permalink: /publications/2021-factors-influencing-elearning-system-success
+permalink: /Publications/2021-factors-influencing-elearning-system-success
 excerpt: 'This paper discussed e-learning system success during COVID-19 Pandemic in Indonesia with case study in FASILKOM UI'
 date: 2021-10-01
 venue: '2021 International Conference on Advanced Computer Science and Information Systems (ICACSIS) 2021'

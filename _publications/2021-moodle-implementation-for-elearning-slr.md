@@ -2,7 +2,7 @@
 title: "Moodle Implementation for E-Learning: A Systematic Review"
 collection: publications
 category: conferences
-permalink: /publications/2021-moodle-implementation-for-elearning-slr
+permalink: /Publications/2021-moodle-implementation-for-elearning-slr
 excerpt: 'This paper is a systematic literature review for usage of Moodle for E-Learning in Indonesia'
 date: 2021-11-03
 venue: "SIET '21: Proceedings of the 6th International Conference on Sustainable Information Engineering and Technology 2021"
