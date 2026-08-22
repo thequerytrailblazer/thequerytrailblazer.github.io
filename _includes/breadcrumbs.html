@@ -34,14 +34,20 @@
         {% assign crumb_slug = crumb | downcase %}
         {% if crumb_slug == 'portfolio' %}
           {% assign crumb_display_name = "Partnership Portfolios" %}
+          {% assign crumb_url = "/portfolio/" %}
         {% elsif crumb_slug == 'data-portfolio' %}
           {% assign crumb_display_name = "Data Portfolios" %}
+          {% assign crumb_url = "/data-portfolio/" %}
+        {% elsif crumb_slug == 'publications' %}
+          {% assign crumb_display_name = "Publications" %}
+          {% assign crumb_url = "/publications/" %}
         {% else %}
           {% assign crumb_display_name = crumb | replace: '-', ' ' | replace: '%20', ' ' | titleize %}
+          {% assign crumb_url = crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path %}
         {% endif %}
 
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="{{ base_path }}{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path }}" itemprop="item"><span itemprop="name">{{ crumb_display_name }}</span></a>
+          <a href="{{ base_path }}{{ crumb_url }}" itemprop="item"><span itemprop="name">{{ crumb_display_name }}</span></a>
           <meta itemprop="position" content="{{ i }}" />
         </li>
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
