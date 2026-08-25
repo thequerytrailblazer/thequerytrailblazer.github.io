@@ -10,7 +10,7 @@ This project presents an interactive data analysis exploring PM2.5 pollutant con
 
 ## Key Insights
 * Identifying sharp seasonal spikes in PM2.5 concentration during winter months (December–February).
-* Evaluating how wind speed (`WSPM`) and temperature (`TEMP`) impact pollutant dispersion in high-risk areas like Dongsi Station[cite: 2].
+* Evaluating how wind speed (`WSPM`) and temperature (`TEMP`) impact pollutant dispersion in high-risk areas like Dongsi Station.
 * Categorizing air quality observations into clear safety levels (*Baik*, *Sedang*, *Tidak Sehat*, *Sangat Tidak Sehat*) to evaluate population exposure.
 
 ## Interactive Dashboard
