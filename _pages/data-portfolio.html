@@ -11,7 +11,8 @@ date: 2026-08-01
 <p>This section showcases my personal and professional data analysis projects, including interactive dashboards, machine learning explorations, and visual analytics.</p>
 
 <div class="entries-grid">
-{% for post in site.data-portfolio %}
+{% assign sorted_posts = site.data-portfolio | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
   {% include archive-single.html %}
 {% endfor %}
 </div>
